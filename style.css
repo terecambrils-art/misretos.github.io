@@ -117,9 +117,13 @@ footer {
   section {
     padding: 40px 15px;
   }
-  a:link,
+ 
+a {
+  color: white;
+}
+
 a:visited {
   color: white;
-  text-decoration: none;
 }
+  
 }
