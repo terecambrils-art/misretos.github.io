@@ -117,14 +117,10 @@ footer {
   section {
     padding: 40px 15px;
   }
-a:link,
-a:visited {
-  color: black;
+.pdf-link:link,
+.pdf-link:visited {
+  color: #bfbfbf; /* gris clarito */
   text-decoration: none;
 }
-a {
-  color: black;
-}
-
  
 }
