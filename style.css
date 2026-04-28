@@ -91,7 +91,11 @@ h2 {
 .card:hover {
   transform: translateY(-5px);
 }
-
+.pdf-link:link,
+.pdf-link:visited {
+  color: #bfbfbf; /* gris clarito */
+  text-decoration: none;
+}
 /* FOOTER */
 footer {
   text-align: center;
@@ -117,10 +121,6 @@ footer {
   section {
     padding: 40px 15px;
   }
-.pdf-link:link,
-.pdf-link:visited {
-  color: #bfbfbf; /* gris clarito */
-  text-decoration: none;
-}
+
  
 }
