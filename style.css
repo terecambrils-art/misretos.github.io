@@ -92,6 +92,9 @@ h2 {
   transform: translateY(-5px);
 }
 .pdf-link:link,
+.pdf-link:hover {
+  color: white;
+}
 .pdf-link:visited {
   color: #bfbfbf; /* gris clarito */
   text-decoration: none;
