@@ -117,4 +117,8 @@ footer {
   section {
     padding: 40px 15px;
   }
+  a {
+  color: white;
+  text-decoration: none;
+}
 }
