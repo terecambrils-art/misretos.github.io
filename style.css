@@ -117,7 +117,8 @@ footer {
   section {
     padding: 40px 15px;
   }
-  a {
+  a:link,
+a:visited {
   color: white;
   text-decoration: none;
 }
