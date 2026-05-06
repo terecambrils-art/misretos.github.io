@@ -92,13 +92,13 @@ h2 {
   transform: translateY(-5px);
 }
 a {
-  color: #60a5fa;
+  color: white;
   text-decoration: underline;
   font-weight: 500;
 }
 
 a:visited {
-  color: #60a5fa;
+  color: white;
 }
 .pdf-link:link,
 .pdf-link:visited,
